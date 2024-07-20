@@ -36,7 +36,7 @@ export function sidebar() {
         <div class="sidebar-footer">
             <p class="copyright">
                 Copyright 2023
-                <a href="https://github.com/mrchetan005/">Chota Chetan</a>
+                <a href="https://github.com/mrchetan005/">Jash Ambaliya</a>
                 <img
                     src="./assets/images/tmdb-logo.svg"
                     width="130"
